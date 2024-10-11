@@ -1,2 +1,2 @@
 # Mongodb 
-learning the  basics of mongodb.
+learning the  basics of mongodb, and query's
